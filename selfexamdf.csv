@@ -1,0 +1,10 @@
+age,frequency,Freq
+0<45,monthly,91
+45-59,monthly,150
+60+,monthly,109
+0<45,occasionally,90
+45-59,occasionally,200
+60+,occasionally,198
+0<45,never,51
+45-59,never,155
+60+,never,172
